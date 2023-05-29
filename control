@@ -1,7 +1,7 @@
 Package: net.limneos.oslog
 Name: oslog
 Version: 0.0.4.3
-Architecture: iphoneos-arm
+Architecture: appletvos-arm64
 Description: os_log implementation for iOS
 Maintainer: NoisyFlake
 Author: Elias Limneos
